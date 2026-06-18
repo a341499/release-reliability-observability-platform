@@ -1,0 +1,11 @@
+release_id,release_date,service,cpu_pct,memory_pct,error_count,availability_pct,severity,status
+REL-001,2026-05-01,OrderService,45,52,2,99.9,Low,Successful
+REL-002,2026-05-05,PaymentService,68,71,12,98.5,Medium,Successful
+REL-003,2026-05-10,InventoryService,82,79,35,96.2,High,Incident
+REL-004,2026-05-15,OrderService,51,55,3,99.8,Low,Successful
+REL-005,2026-05-20,PaymentService,91,88,57,94.5,Critical,Failed
+REL-006,2026-05-25,InventoryService,73,76,18,97.4,Medium,Successful
+REL-007,2026-06-01,OrderService,48,54,4,99.7,Low,Successful
+REL-008,2026-06-05,PaymentService,86,82,42,95.9,High,Incident
+REL-009,2026-06-10,InventoryService,67,70,11,98.1,Medium,Successful
+REL-010,2026-06-15,OrderService,94,91,63,93.8,Critical,Failed

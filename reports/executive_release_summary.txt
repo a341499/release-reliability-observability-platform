@@ -1,0 +1,13 @@
+===== EXECUTIVE RELEASE SUMMARY =====
+
+Total Releases      : 10
+Successful Releases : 6
+Failed Releases     : 2
+Incident Releases   : 2
+
+Low Risk Releases      : 3
+Medium Risk Releases   : 3
+High Risk Releases     : 2
+Critical Risk Releases : 2
+
+Overall Release Health : ATTENTION REQUIRED

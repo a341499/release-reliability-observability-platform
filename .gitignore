@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ChromaDB local database
+data/chroma_release_db/
