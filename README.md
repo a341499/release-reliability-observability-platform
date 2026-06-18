@@ -55,27 +55,9 @@ The platform demonstrates observability analytics, vector search, operational in
 
 ---
 
-## Architecture
+## Architecture Diagram
 
-```text
-Release Telemetry Data
-          ↓
-Telemetry Analytics
-          ↓
-Risk Assessment Engine
-          ↓
-Recommendation Engine
-          ↓
-Embedding Generation
-          ↓
-ChromaDB Vector Store
-          ↓
-Semantic Similarity Search
-          ↓
-Executive Reporting
-          ↓
-Streamlit Dashboard
-```
+![Release Reliability & Observability Platform Architecture](architecture/release-reliability-observability-platform-architecture.png)
 
 ---
 
