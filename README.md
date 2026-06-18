@@ -74,6 +74,21 @@ The platform demonstrates observability analytics, vector search, operational in
 
 ---
 
+## Portfolio Focus
+
+This project demonstrates:
+
+* Release reliability engineering
+* Observability analytics
+* Semantic retrieval using vector embeddings
+* ChromaDB operational intelligence workflows
+* AI-assisted release decision support
+* Executive reporting and operational visibility
+* Enterprise-style dashboard development
+* End-to-end AI infrastructure implementation
+
+---
+
 ## Technology Stack
 
 * Python
